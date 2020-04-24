@@ -29,6 +29,7 @@ To get started with ML Ops, simply create a new repo based off this template, by
 
 ### 3. Setting up the required secrets
 
+
 Install the [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest) on your computer or use the Cloud CLI and execute the following command to generate the required credentials:
 
 ```sh
